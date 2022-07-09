@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(28, 29, 29);
+}
+
+h1{
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 20px;
+    font-size: x-large;
+}
+
+p{
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+footer{
+    padding: 0;
+    color: white;
+    margin-left: 486px;
+    margin-top: 75px;
+}
